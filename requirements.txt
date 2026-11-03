@@ -1,0 +1,11 @@
+streamlit
+numpy
+opencv-python
+PyMuPDF
+pdfplumber
+torch
+torchvision
+paddleocr
+python-docx
+Pillow
+ultralytics
