@@ -166,7 +166,7 @@ def detecting_text_regions(image_file):
 
 
 
-                         # Using Calamari OCR for detecting text in Images
+                         # Using Paddle OCR for detecting text in Images
 
 
 @st.cache_resource
